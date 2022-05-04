@@ -20,10 +20,10 @@ we utilize the specefied key and log you in with the nickname.
 
 
 - Here is my .ssh/config file, and how I edited it (with VScode, another program, etc)
- ![Lab 1 Part B](lab1PartB.png)
+ ![Lab 1 Part B](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/790cd180c08ee3c972fd1a2eab87ed9e1c5277b6/Screen%20Shot%202022-05-04%20at%2012.58.33%20PM.png)
 
 - Here is the ssh command logging me into my account using just the alias I chose.
-![Lab 1 Part B](lab1PartB.png)
+![Lab 1 Part B](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/790cd180c08ee3c972fd1a2eab87ed9e1c5277b6/Screen%20Shot%202022-05-04%20at%2012.57.34%20PM.png)
 
 - Here is an scp command copying a file to my account using just the alias I chose.
 ![Lab 1 Part B](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/bd109614c0a86088151ef793a7dfbc86c22d0e21/Screen%20Shot%202022-05-04%20at%2012.58.49%20PM.png)
@@ -35,13 +35,14 @@ we utilize the specefied key and log you in with the nickname.
 
 
 - Here is where the public key I made is stored on Github and in my user account.
-![Lab 1 Part B](lab1PartB.png)
+![Lab 1 Part B](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/790cd180c08ee3c972fd1a2eab87ed9e1c5277b6/Screen%20Shot%202022-05-04%20at%2012.55.07%20PM.png)
 
 - Here is where the private key I made is stored on my user account (but not its contents).
-![Lab 1 Part B](lab1PartB.png)
+![Lab 1 Part B](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/main/Screen%20Shot%202022-05-04%20at%201.04.19%20PM.png)
+![Lab 1 Part B](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/main/Screen%20Shot%202022-05-04%20at%201.04.05%20PM.png)
 
 - Here I run git commands to commit and push a change to Github while logged into my ieng6 account.
-![Lab 1 Part B](lab1PartB.png)
+![Lab 1 Part B](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/790cd180c08ee3c972fd1a2eab87ed9e1c5277b6/Screen%20Shot%202022-05-04%20at%2012.54.31%20PM.png)
 
 - Here is [a link for the resulting commit.](https://github.com/luisvelediaz/markdown-parser/commit/28c5d16f87d2d075c5805bbfb164829e4179b880)
 
@@ -59,11 +60,11 @@ we can do copy the directory. "-r" basically tells the computer to utilize recur
 
 
 - Here I copy my whole markdown-parse directory to your ieng6 account.
-![Lab 1 Part c](lab1PartC.png)
+![Lab 1 Part c](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/main/Screen%20Shot%202022-05-04%20at%201.08.16%20PM.png)
 
 - Here I log into my ieng6 account after doing this and compiling and running the tests for my repository.
-![Lab 1 Part c](lab1PartC.png)
+![Lab 1 Part c](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/main/Screen%20Shot%202022-05-04%20at%201.37.47%20PM.png)
 
 - Here (like in the last step of the first lab) I combine scp, ;, and ssh to copy the whole directory and run the tests in one line.
-![Lab 1 Part c](lab1PartC.png)
+![Lab 1 Part c](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/main/Screen%20Shot%202022-05-04%20at%202.32.25%20PM.png)
 
