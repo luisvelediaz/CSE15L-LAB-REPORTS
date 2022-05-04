@@ -7,6 +7,18 @@ Welcome once again to CSE 15L. Glad to have you here! Today we will implement al
 
 
 1) *Streamlining ssh Configuration*
+To log into our remote computer we have to type out some long string such as...
+```
+$ ssh cs15lsp22zzz@ieng6.ucsd.edu
+```
+
+This is inefficient, but not to worry we can save some time, effort and energy byt putting an entry inin ~/.ssh/config. This basically tells SSH a username to utilize to log into the serve computer with a given nickname such as ieng6 for our examples. If done as theyr'e supposed to be done, with 
+```
+$ ssh ieng6
+```
+we utilize the specefied key and log you in with the nickname.
+
+
 - Here is my .ssh/config file, and how I edited it (with VScode, another program, etc)
  ![Lab 1 Part B](lab1PartB.png)
 
@@ -16,7 +28,6 @@ Welcome once again to CSE 15L. Glad to have you here! Today we will implement al
 - Here is an scp command copying a file to my account using just the alias I chose.
 ![Lab 1 Part B](lab1PartB.png)
 
-![Lab 2 Part A](lab2screenshot1.png)
 
 
 2) **Setup Github Access from ieng6**
