@@ -7,46 +7,53 @@ Welcome once again to CSE 15L. Glad to have you here! Today we will implement al
 
 
 1) *Streamlining ssh Configuration*
-- Show your .ssh/config file, and how you edited it (with VScode, another program, etc)
-- Show the ssh command logging you into your account using just the alias you chose.
-- Show an scp command copying a file to your account using just the alias you chose.
+- Here is my .ssh/config file, and how I edited it (with VScode, another program, etc)
+ ![Lab 1 Part B](lab1PartB.png)
+
+- Here is the ssh command logging me into my account using just the alias I chose.
+![Lab 1 Part B](lab1PartB.png)
+
+- Here is an scp command copying a file to my account using just the alias I chose.
+![Lab 1 Part B](lab1PartB.png)
 
 ![Lab 2 Part A](lab2screenshot1.png)
 
 
 2) **Setup Github Access from ieng6**
-- We must connect to our CSE-specific account that we will utilize for the time duration of the course, to start one must open the VS Code terminal (CTRL + ') and on it type the secure shell command and our account name. 
+*Throughout our expierences with GITHUB, we have seen how to clone and pull. However, now we will show comitting and pushing from the command line. Represeneted by editting MarkdownParse.java we will try to add, commit, and push it via the terminal. We are required to use token-based like SSH keys. Basically we added the remote access public key we previously acquired to Github. We then apply commit and push to update our actual Github Repository.
 
-```
-#Secure Shell Command
-"ssh " + "cs15lsp22"+ YOUR specific course letters + "@ieng6.ucsd.edu"'
-```
-- Show where the public key you made is stored on Github and in your user account (screenshot).
-- Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
-- Show running git commands to commit and push a change to Github while logged into your ieng6 account.
-- Show a link for the resulting commit.
 
+- Here is where the public key I made is stored on Github and in my user account.
+![Lab 1 Part B](lab1PartB.png)
+
+- Here is where the private key I made is stored on my user account (but not its contents).
+![Lab 1 Part B](lab1PartB.png)
+
+- Here I run git commands to commit and push a change to Github while logged into my ieng6 account.
+![Lab 1 Part B](lab1PartB.png)
+
+- Here is a link for the resulting commit.
 ![Lab 1 Part B](lab1PartB.png)
 
 
 
 3) **Copy whole directories with scp -r**
-- Show copying your whole markdown-parse directory to your ieng6 account.
-- Show logging into your ieng6 account after doing this and compiling and running the tests for your repository.
-- Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
-``` 
-# Here is some COMMAND examples
-cd ~ 
-cd 
-ls -lat 
-ls -a 
-ls < directory > 
-cp 
-cat 
+Copying lone files from entire directories with scp a lot of repeated times is inefficent, tedious and error prone. HOWEVER... thanks with SCP we can recursively copy all a directory's files and directories within it and everything within these objects too. As shown with the markdown-parse directory we can copy all of its contents to the cloud with one efficient line of terminal code. 
+
+Basically by utilizing ...
+
 ```
+$ scp -r . cs15lsp22@ieng6.ucsd.edu:~/markdown-parse
+```
+we can do copy the directory. "-r" basically tells the computer to utilize recursion. "." is the source. The last part is the creation of the directory on the remote serve along with the contentes within it being copied recursively. 
 
-- All of the commands are different tools that have unique actions, for example as shown on this terminal below, we ran the command ls -a which basically prints the list of files and directories available.
 
+- Here I copy my whole markdown-parse directory to your ieng6 account.
 ![Lab 1 Part c](lab1PartC.png)
 
+- Here I log into my ieng6 account after doing this and compiling and running the tests for my repository.
+![Lab 1 Part c](lab1PartC.png)
+
+- Here (like in the last step of the first lab) I combine scp, ;, and ssh to copy the whole directory and run the tests in one line.
+![Lab 1 Part c](lab1PartC.png)
 
