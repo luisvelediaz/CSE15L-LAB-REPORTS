@@ -43,8 +43,7 @@ we utilize the specefied key and log you in with the nickname.
 - Here I run git commands to commit and push a change to Github while logged into my ieng6 account.
 ![Lab 1 Part B](lab1PartB.png)
 
-- Here is a link for the resulting commit.
-![Lab 1 Part B](lab1PartB.png)
+- Here is [a link for the resulting commit.](https://github.com/luisvelediaz/markdown-parser/commit/28c5d16f87d2d075c5805bbfb164829e4179b880)
 
 
 
