@@ -26,7 +26,7 @@ we utilize the specefied key and log you in with the nickname.
 ![Lab 1 Part B](lab1PartB.png)
 
 - Here is an scp command copying a file to my account using just the alias I chose.
-![Lab 1 Part B](lab1PartB.png)
+![Lab 1 Part B](Screen Shot 2022-05-04 at 12.58.49 PM.png)
 
 
 
