@@ -22,7 +22,7 @@ we utilize the specefied key and log you in with the nickname.
 
 
 - Here is my .ssh/config file, and how I edited it (with VScode, another program, etc)
- ![Lab 3 Part a](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/790cd180c08ee3c972fd1a2eab87ed9e1c5277b6/Screen%20Shot%202022-05-04%20at%2012.58.33%20PM.png)
+ ![Lab 3 Part a](Screen Shot 2022-05-04 at 1.04.19 PM.png)
 
 - Here is the ssh command logging me into my account using just the alias I chose.
 ![Lab 3 Part B](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/790cd180c08ee3c972fd1a2eab87ed9e1c5277b6/Screen%20Shot%202022-05-04%20at%2012.57.34%20PM.png)
