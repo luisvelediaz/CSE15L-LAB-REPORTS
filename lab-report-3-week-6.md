@@ -65,6 +65,6 @@ we can do copy the directory. "-r" basically tells the computer to utilize recur
 - Here I log into my ieng6 account after doing this and compiling and running the tests for my repository.
 ![Lab 1 Part c](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/main/Screen%20Shot%202022-05-04%20at%201.37.47%20PM.png)
 
-- Here (like in the last step of the first lab) I combine scp, ;, and ssh to copy the whole directory and run the tests in one line.
+- Here (like in the last step of the first lab) I combined scp, ;, and ssh to copy the whole directory and run the tests in one line.
 ![Lab 1 Part c](https://github.com/luisvelediaz/CSE15L-LAB-REPORTS/blob/main/Screen%20Shot%202022-05-04%20at%202.32.25%20PM.png)
 
