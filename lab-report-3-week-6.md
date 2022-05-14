@@ -70,5 +70,12 @@ we can do copy the directory. "-r" basically tells the computer to utilize recur
 ![Lab 3 Part i](Screen Shot 2022-05-04 at 1.37.47 PM.png)
 
 - Here (like in the last step of the first lab) I combined scp, ;, and ssh to copy the whole directory and run the tests in one line.
-![Lab 3 Part j](Screen Shot 2022-05-04 at 2.32.25 PM.png)
+
+```
+scp -r . ieng6:~/markdown-parser; ssh ieng6 "cd markdown-parser; /software/CSE/oracle-java-17/jdk-17.0.1/bin/javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; /software/CSE/oracle-java-17/jdk-17.0.1/bin/java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"
+```
+
+![Lab 3 Part j](SScreen Shot 2022-05-14 at 4.51.15 PM.png)
+
+![Lab 3 Part k](SScreen Shot 2022-05-14 at 4.51.51 PM.png)
 
