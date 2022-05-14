@@ -78,6 +78,7 @@ scp -r . ieng6:~/markdown-parser; ssh ieng6 "cd markdown-parser; /software/CSE/o
 *(Beginning of terminal)*
 ![Lab 3 Part j](Screen Shot 2022-05-14 at 4.57.10 PM.png)
 
+
 *(End Of Terminal)*
 ![Lab 3 Part k](Screen Shot 2022-05-14 at 4.53.55 PM.png)
 
