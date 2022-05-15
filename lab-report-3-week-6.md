@@ -46,7 +46,7 @@ we utilize the specefied key and log you in with the nickname.
 ![Lab 3 Part f](Screen Shot 2022-05-04 at 1.04.05 PM.png)
 
 - Here I run git commands to commit and push a change to Github while logged into my ieng6 account.
-![Lab 3 Part g](file:///var/folders/5y/kdh5l18n35bfwd71tmxryyt80000gn/T/TemporaryItems/NSIRD_screencaptureui_hteQDO/Screen%20Shot%202022-05-15%20at%2012.19.51%20AM.png)
+![Lab 3 Part g](Screen Shot 2022-05-15 at 12.21.47 AM.png)
 
 - Here is [a link for the resulting commit.](https://github.com/luisvelediaz/markdown-parser/commit/a6c959fc5b6df664ef9d421d1c54c0f1ad7f29b8)
 
