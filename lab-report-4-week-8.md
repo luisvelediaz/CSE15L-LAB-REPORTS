@@ -50,6 +50,10 @@ And there's still some more text after that.
 And then there's more text
 ```
 
+**Here are the link to both markdown-parse repositorys.**
+My groups [markdown-parse repositorys.](https://github.com/bchoUCSD/markdown-parser)
+
+Link to the [markdown-parse repositorys we reviewed in week 7.](https://github.com/KristinEbu/markdown-parser)
 
 *READY? Lets go!*
 
@@ -58,29 +62,6 @@ And then there's more text
 1) *Streamlining ssh Configuration*
 
 
-To log into our remote computer we have to type out some long string such as...
-```
-$ ssh cs15lsp22zzz@ieng6.ucsd.edu
-```
-
-This is inefficient, but not to worry we can save some time, effort and energy byt putting an entry inin ~/.ssh/config. This basically tells SSH a username to utilize to log into the serve computer with a given nickname such as ieng6 for our examples. If done as theyr'e supposed to be done, with 
-```
-$ ssh ieng6
-```
-we utilize the specefied key and log you in with the nickname.
-
-
-- Here is my .ssh/config file, and how I edited it (with VScode, another program, etc)
- ![Lab 3 Part a](Screen Shot 2022-05-14 at 4.27.05 PM.png)
- 
- 
-For each snippet, add a test both to your implementation of markdown-parse, and the implementation you reviewed in week 7. Run the tests and show the results of running the tests on each. This means you should add a total of 6 test methods (3 to your implementation and 3 to the one you reviewed).
-
-This means you will need to clone and run both your implementation and the one you reviewed in week 7, make some small edits, and run them both.
-
-Your report should include:
-
-A link to your markdown-parse repository and a link to the one you reviewed in week 7
 
 For each test above:
 
