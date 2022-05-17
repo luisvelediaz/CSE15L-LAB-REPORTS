@@ -58,23 +58,52 @@ Link to the [markdown-parse repositorys we reviewed in week 7.](https://github.c
 *READY? Lets go!*
 
 
+***SNIPPET 1***
+**What is the expected output?** 
+- f
+- f
 
-1) *Streamlining ssh Configuration*
+**The code in MarkdownParseTest.java for how I turned it into a test.**
+
+
+1) *Snippet 1 Our Repository*
+- For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+
+2) *Snippet 1 Reviewed Repository*
+- For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
 
 
-For each test above:
+***SNIPPET 2***
+**What is the expected output?** 
+- f
+- f
 
-Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site
+**The code in MarkdownParseTest.java for how I turned it into a test.**
 
-Showing the code in MarkdownParseTest.java for how you turned it into a test
+3) *Snipper 2 Our Repository*
+- For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+4) *Snippet 2 Reviewed Repository*
+- For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
 
-For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+***SNIPPET 3***
+**What is the expected output?** 
+- dd
+- d
 
-Answer the following questions with 2-3 sentences each:
+**The code in MarkdownParseTest.java for how I turned it into a test.**
 
-Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
-Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
-Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
+5) *Snipper 3 Our Repository*
+- For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+
+6) *Snipper 3 Reviewed Repository*
+- For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+
+
+***REVIEW QUESTIONS***
+1) Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+
+2) Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+
+3) Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
