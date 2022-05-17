@@ -50,7 +50,8 @@ And there's still some more text after that.
 And then there's more text
 ```
 
-**Here are the link to both markdown-parse repositorys.**
+**Here are the links to both markdown-parse repositorys.**
+
 My groups [markdown-parse repositorys.](https://github.com/bchoUCSD/markdown-parser)
 
 Link to the [markdown-parse repositorys we reviewed in week 7.](https://github.com/KristinEbu/markdown-parser)
