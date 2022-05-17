@@ -60,45 +60,50 @@ Link to the [markdown-parse repositorys we reviewed in week 7.](https://github.c
 
 ***SNIPPET 1***
 **What is the expected output?** 
-- f
-- f
+-  ![produce1](produce1.png)
 
 **The code in MarkdownParseTest.java for how I turned it into a test.**
-
+- ![test1](test1.png)
 
 1) *Snippet 1 Our Repository*
-- For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+- For your implementation, the corresponding output when running the tests didn’t pass and here is the specific part of the JUnit output that shows the test failure.
+-  ![ourTest1](ourTest1.png)
+
 
 2) *Snippet 1 Reviewed Repository*
-- For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
-
+- For the implementation you reviewed in Week 7, the corresponding didn’t pass and here is the specific part of the JUnit output that shows the test failure.
+- ![otherTest1](otherTest1.png)
 
 
 ***SNIPPET 2***
 **What is the expected output?** 
-- f
-- f
+- ![produce2](produce2.png)
 
 **The code in MarkdownParseTest.java for how I turned it into a test.**
+- ![test2](test2.png)
 
-3) *Snipper 2 Our Repository*
-- For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+3) *Snippet 2 Our Repository*
+- For our implementation, the corresponding output when running the tests, passed.
 
 4) *Snippet 2 Reviewed Repository*
-- For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+- For the implementation we reviewed in Week 7, the corresponding output when running the tests passed.
 
 ***SNIPPET 3***
 **What is the expected output?** 
-- dd
-- d
+- ![produce3](produce3.png)
 
 **The code in MarkdownParseTest.java for how I turned it into a test.**
+- ![test3](test3.png)
 
-5) *Snipper 3 Our Repository*
-- For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+5) *Snippet 3 Our Repository*
+- For our implementation, the corresponding output when running the tests didn’t pass and here is the specific part of the JUnit output that shows the test failure.
 
-6) *Snipper 3 Reviewed Repository*
-- For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
+-  ![ourTest3](ourTest3.png)
+
+
+6) *Snippet 3 Reviewed Repository*
+- For the implementation you reviewed in Week 7, the corresponding didn’t pass and here is the specific part of the JUnit output that shows the test failure.
+- ![otherTest3](otherTest3.png)
 
 
 ***REVIEW QUESTIONS***
