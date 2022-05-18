@@ -110,9 +110,13 @@ Link to the [markdown-parse repositorys we reviewed in week 7.](https://github.c
 ***REVIEW QUESTIONS***
 1) Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
-In my opion I believe that a small code change would make the program work for snippet 1 that uses incline code with backticks. This is because I think that as long as the backtick goes after the bracket or parenthesis, the image format will override it. So for this code we will basically add an if statment that checks for the backtick if it goes before the "[ " and then add nothing to the list. 
+- In my opion I believe that a small code change would make the program work for snippet 1 that uses incline code with backticks. This is because I think that as long as the backtick goes after the bracket or parenthesis, the image format will override it. So for this code we will basically add an if statment that checks for the backtick if it goes before the "[ " and then doesn't add this string to the list. 
 
 
 2) Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+- In my opion I believe that a small code change would make the program work for snippet 2 that uses incline code with nested parenthesis and brackets. This is because I think that as of right now we have the code mostly functioning as during our tests, it passed. However I believe that we can improve it a little bit by making sure our code through the usage of if statements checks for the format "[]()" and will restart the check if it sees that format inside of [].
+
 
 3) Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
+- I think a small code change will be needed to make the program work for snippet 3 andall the related cases with newlines in brackets and parenthesis. I believe that the code must simply check for an empyt line, which breaks the md format of a link. We should be able to use and if statement that makes sure that there is no full line break since we already solved the issue of checking for specefically the format "[]()".If that format is broken or there is an entire line of blank code (line break) then the link wont be added.
+
