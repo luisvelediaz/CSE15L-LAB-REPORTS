@@ -114,7 +114,7 @@ Link to the [markdown-parse repositorys we reviewed in week 7.](https://github.c
 
 
 2) Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
-- In my opion I believe that a small code change would make the program work for snippet 2 that uses incline code with nested parenthesis and brackets. This is because I think that as of right now we have the code mostly functioning as during our tests, it passed. However I believe that we can improve it a little bit by making sure our code through the usage of if statements checks for the format "[]()" and will restart the check if it sees that format inside of [].
+- In my opion I believe that a small code change would make the program work for snippet 2 that uses incline code with nested parenthesis and brackets. This is because I think that as of right now we have the code mostly functioning as during our tests, it passed. However I believe that we can improve it a little bit by making sure our code through the usage of if statements checks for the format "_[]()_ " and will restart the check if it sees that format inside of [].
 
 
 3) Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
