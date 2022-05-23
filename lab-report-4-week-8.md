@@ -1,4 +1,4 @@
-# Week 6 Lab Report
+# Week 8 Lab Report
 *By Luis Velediaz*
 
 Welcome once again to CSE 15L. Glad to have you here! For each snippet, we will add a test both to our implementation of markdown-parse, and the implementation we reviewed in week 7. Run the tests and show the results of running the tests on each. This means we added a total of 6 test methods 
