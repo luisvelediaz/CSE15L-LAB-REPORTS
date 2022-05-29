@@ -24,6 +24,7 @@ Link to the [markdown-parse repository we reviewed in week 7.](https://github.co
 
 [`code]`](ucsd.edu)
 ```
+**What is read?**
 
 
 **What is the expected output?** 
@@ -51,6 +52,8 @@ Link to the [markdown-parse repository we reviewed in week 7.](https://github.co
 
 [some escaped \[ brackets \]](example.com)
 ```
+**What is read?**
+
 
 **What is the expected output?** 
 - ![produce2](produce2.png)
@@ -93,6 +96,8 @@ And there's still some more text after that.
 
 And then there's more text
 ```
+**What is read?**
+
 
 **What is the expected output?** 
 - ![produce3](produce3.png)
