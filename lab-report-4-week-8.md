@@ -58,7 +58,7 @@ Link to the [markdown-parse repository we reviewed in week 7.](https://github.co
 
 
 **What is the expected output?** 
-- ![expect2](produce2.png)
+- ![expect2](expect2.png)
 
 **What is read?**
 - ![read2](read2.png)
