@@ -24,23 +24,26 @@ Link to the [markdown-parse repository we reviewed in week 7.](https://github.co
 
 [`code]`](ucsd.edu)
 ```
-**What is read?**
 
 
 **What is the expected output?** 
--  ![produce1](produce1.png)
+- ![expect1](expect1.png)
+
+**What is read?**
+- ![read1](read1.png)
 
 **The code in MarkdownParseTest.java for how I turned it into a test.**
 - ![test1](test1.png)
 
+
 1) *Snippet 1 Our Repository*
 - For our implementation, the corresponding output when running the tests didn’t pass, and here is the specific part of the JUnit output that shows the test failure.
--  ![ourTest1](ourTest1.png)
+-  ![ourtest1](ourtest1.png)
 
 
 2) *Snippet 1 Reviewed Repository*
 - For the implementation I reviewed in Week 7, the corresponding repository didn’t pass, and here is the specific part of the JUnit output that shows the test failure.
-- ![otherTest1](otherTest1.png)
+- ![othertest1](othertest1.png)
 
 
 ## ***SNIPPET 2***
@@ -52,20 +55,24 @@ Link to the [markdown-parse repository we reviewed in week 7.](https://github.co
 
 [some escaped \[ brackets \]](example.com)
 ```
-**What is read?**
 
 
 **What is the expected output?** 
-- ![produce2](produce2.png)
+- ![expect2](produce2.png)
+
+**What is read?**
+- ![read2](read2.png)
+
 
 **The code in MarkdownParseTest.java for how I turned it into a test.**
 - ![test2](test2.png)
 
 3) *Snippet 2 Our Repository*
-- For our implementation, the corresponding output when running the tests, passed.
+- ![test3](test3.png)
+
 
 4) *Snippet 2 Reviewed Repository*
-- For the implementation, we reviewed in Week 7, the corresponding output when running the tests passed.
+- ![ourtest2](ourtest2.png)
 
 ## ***SNIPPET 3***
 
@@ -96,11 +103,13 @@ And there's still some more text after that.
 
 And then there's more text
 ```
-**What is read?**
-
 
 **What is the expected output?** 
-- ![produce3](produce3.png)
+- ![expect3a](expect3a.png)
+- ![expect 3b](expect 3b.png)
+
+**What is read?**
+- ![read3](read3.png)
 
 **The code in MarkdownParseTest.java for how I turned it into a test.**
 - ![test3](test3.png)
@@ -108,12 +117,12 @@ And then there's more text
 5) *Snippet 3 Our Repository*
 - For our implementation, the corresponding output when running the tests didn’t pass, and here is the specific part of the JUnit output that shows the test failure.
 
--  ![ourTest3](ourTest3.png)
+-  ![ourtest3](ourtest3.png)
 
 
 6) *Snippet 3 Reviewed Repository*
 - For the implementation I reviewed in Week 7, the corresponding repository didn’t pass, and here is the specific part of the JUnit output that shows the test failure.
-- ![otherTest3](otherTest3.png)
+- ![othertest3](othertest3.png)
 
 
 # ***REVIEW QUESTIONS***
