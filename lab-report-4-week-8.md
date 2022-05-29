@@ -106,7 +106,7 @@ And then there's more text
 
 **What is the expected output?** 
 - ![expect3a](expect3a.png)
-- ![expect 3b](expect 3b.png)
+- ![expect 3b](expect3b.png)
 
 **What is read?**
 - ![read3](read3.png)
