@@ -68,11 +68,11 @@ Link to the [markdown-parse repository we reviewed in week 7.](https://github.co
 - ![test2](test2.png)
 
 3) *Snippet 2 Our Repository*
-- ![test3](test3.png)
+- ![ourtest2](ourtest2.png)
 
 
 4) *Snippet 2 Reviewed Repository*
-- ![ourtest2](ourtest2.png)
+- ![othertest2](othertest2.png)
 
 ## ***SNIPPET 3***
 
