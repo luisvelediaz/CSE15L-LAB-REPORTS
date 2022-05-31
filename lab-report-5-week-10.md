@@ -32,7 +32,7 @@ This is the [Link for test file 418.](https://github.com/nidhidhamnani/markdown-
 
 Expected Output:
 ```
-/url
+[/url]
 ```
 
 ### ***What is the problem?***
