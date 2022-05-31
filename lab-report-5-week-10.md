@@ -1,12 +1,12 @@
 # Week 10 Lab Report
 *By Luis Velediaz*
 
-In lab 9, we experimented with the many tests provided under the test-files/ folder. For this lab report,we chose tests with different answers that should correspond to different bugs to further try to understand the given code.
+In lab 9, we experimented with the many tests provided under the test-files/ folder. For this lab report, we chose tests with different answers that should correspond to different bugs to further try to understand the given code.
 
 ### *READY? Let's go!*
 
 # **How did I find the tests with different results?**
-This was actually quite simple. I didn't use vimdiff. At first I just printed the test files from the main method. Then I simply manually ran differeing files hoping to find ones that produced differening outputs. This was done through the utilization of random test cases I developed. 
+This was actually quite simple. I didn't use vimdiff. At first, I just printed the test files from the main method. Then I simply manually ran differing files hoping to find ones that produced different outputs. This was done through the utilization of random test cases I developed. 
 
 Here is a screenshot from the print line.
 
@@ -40,7 +40,7 @@ My repo:
 ![wrong1](wrong1.png)
 
 
-I believe that my implementation of the Markdown Parse is wrong. I believe that the issue here is that we havent been able to fully develop a code that properly utilizes the end bracket or parenthesis. Instead the file just goes to the end of the end of line and just adds everything from the intial parenthesis. I believe that is why the parenthesis was added to the list alongside the link.
+I believe that my implementation of the Markdown Parse is wrong. I believe that the issue here is that we haven't been able to fully develop a code that properly utilizes the end bracket or parenthesis. Instead, the file just goes to the end of the line and just adds everything from the initial parenthesis. I believe that is why the parenthesis was added to the list alongside the link.
 
 
 
@@ -77,4 +77,6 @@ My Repo:
 Week9 Repo
 ![wrong2b](wrong2b.png)
 
-I believe that both implementations of the Markdown Parse are wrong.For my grupos repository I believe that our Markdown Parse is just looking for the end of the line and checking to see if it is a parenthesis and just adding everything inside of it to the list, without considering the other markdown format. For the repository we reviewed I believe that their implementation simply doesn't check for the exclamation point that of images, and disregards this key feature thus adding it to the list as if it were a link.
+I believe that both implementations of the Markdown Parse are wrong. For my gruops repository, I think that our Markdown Parse is just looking for the end of the line and checking to see if it is a parenthesis and just adding everything inside of it to the list, without considering the other markdown format. For the repository we reviewed I believe that their implementation simply doesn't check for the exclamation point of images, and disregards this key feature thus adding it to the list as if it were a link.
+
+
