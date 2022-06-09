@@ -1,11 +1,11 @@
-#CSE 15L LAB REPORTS
+# CSE 15L LAB REPORTS
 
-#[LabReport1](https://luisvelediaz.github.io/cse15l-lab-reports/Week%202%20Lab%20Report.html)
+## [LabReport1](https://luisvelediaz.github.io/cse15l-lab-reports/Week%202%20Lab%20Report.html)
 
-#[LabReport2](https://luisvelediaz.github.io/cse15l-lab-reports/Week4LabReport2.html)
+## [LabReport2](https://luisvelediaz.github.io/cse15l-lab-reports/Week4LabReport2.html)
 
-#[LabReport3](https://luisvelediaz.github.io/cse15l-lab-reports/Week6LabReport3.html)
+## [LabReport3](https://luisvelediaz.github.io/cse15l-lab-reports/Week6LabReport3.html)
 
-#[LabReport4](https://luisvelediaz.github.io/cse15l-lab-reports/Week8LabReport4.html)
+## [LabReport4](https://luisvelediaz.github.io/cse15l-lab-reports/Week8LabReport4.html)
 
-#[LabReport5](https://luisvelediaz.github.io/cse15l-lab-reports/Week10LabReport5.html)
+## [LabReport5](https://luisvelediaz.github.io/cse15l-lab-reports/Week10LabReport5.html)
