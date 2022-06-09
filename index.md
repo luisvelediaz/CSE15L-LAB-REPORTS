@@ -9,3 +9,9 @@
 ## [LabReport4](https://luisvelediaz.github.io/cse15l-lab-reports/Week8LabReport4.html)
 
 ## [LabReport5](https://luisvelediaz.github.io/cse15l-lab-reports/Week10LabReport5.html)
+
+
+
+![RAJ](https://cse.ucsd.edu/sites/cse.ucsd.edu/files/Gerald.jpg)
+
+![Thanks](https://static.wikia.nocookie.net/looneytunes/images/e/e1/All.jpg/revision/latest?cb=20150313020828)
