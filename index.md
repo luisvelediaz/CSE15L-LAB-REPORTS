@@ -1,40 +1,11 @@
-*Italic*
+#CSE 15L LAB REPORTS
 
-**Bold**
+#[LabReport1](https://luisvelediaz.github.io/cse15l-lab-reports/Week%202%20Lab%20Report.html)
 
-# Heading 1
+#[LabReport2](https://luisvelediaz.github.io/cse15l-lab-reports/Week4LabReport2.html)
 
-## Heading 2
+#[LabReport3](https://luisvelediaz.github.io/cse15l-lab-reports/Week6LabReport3.html)
 
-[Canvas](canvas.ucsd.edu)
+#[LabReport4](https://luisvelediaz.github.io/cse15l-lab-reports/Week8LabReport4.html)
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Geisel_Library%2C_UCSD.jpg/1920px-Geisel_Library%2C_UCSD.jpg)
-
-> Blackquote
-
-* List
-* list
-* List2
-
-1. One 
-2. Two
-3. 3
-
-Horizontal rule:
-
----
-
-`Inline code` with backticks
-
-
-```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
-```
-
-*Helloooo, its me I was wondering if after all this time youd like to meet....*
-
-**@Chester**
-
-
+#[LabReport5](https://luisvelediaz.github.io/cse15l-lab-reports/Week10LabReport5.html)
